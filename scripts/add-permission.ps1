@@ -1,3 +1,5 @@
+# Note :The user executing the script needs to have either Application administrator, Cloud application administrator or Global administrator role.
+
 # Replace with your tenant ID
 $tenantId = "<yenant id>"
 # Replace with your managed identity object ID
